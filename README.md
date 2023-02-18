@@ -1,12 +1,12 @@
 # control-jee
-#Customer-service :
+# Customer-service :
 
-![](images\localhost_8081_customers - Google Chrome 24_12_2022 21_35_10.png)
+<img src ="localhost_8081_customers - Google Chrome 24_12_2022 21_35_10.png">
 
-![](C:\Users\Dell\Videos\Captures\localhost_8081_customers - Google Chrome 24_12_2022 21_36_09.png)
+![](images\localhost_8081_customers - Google Chrome 24_12_2022 21_36_09.png)
 
 
-#Product-service :
+# Product-service :
 ![](C:\Users\Dell\Videos\Captures\localhost_8081_customers - Google Chrome 24_12_2022 21_36_29.png)
 ![](C:\Users\Dell\Videos\Captures\localhost_8081_customers - Google Chrome 24_12_2022 21_36_36.png)
 -Billing-service :
