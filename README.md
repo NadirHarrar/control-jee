@@ -1,7 +1,7 @@
 # control-jee
 # Customer-service :
 
-<img src ="localhost_8081_customers - Google Chrome 24_12_2022 21_35_10.png">
+<img src ="images\localhost_8081_customers - Google Chrome 24_12_2022 21_35_10.png">
 
 ![](images\localhost_8081_customers - Google Chrome 24_12_2022 21_36_09.png)
 
